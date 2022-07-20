@@ -10,4 +10,6 @@ When implementing a new feature or fixing a bug, please create a new pull reques
 
 ## First setup
 
-**[TODO 05/01/2018 @vanessa-cooper]:** _It's been a while since anyone ran a fresh copy of this repo. I think it's worth documenting the steps needed to install and run the repo on a new machine?_
+Run the command "git clone https://github.com/ObelusFamily/Anythink-Market-g9mbi" to clone the git repo.
+cd to the folder where the repo was created
+Finally to run the applications, use the command "docker-compose up".
